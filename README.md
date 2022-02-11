@@ -58,7 +58,7 @@ Silakan ubah beberapa config ini saja untuk disesuaikan dengan pengaturan databa
 
 Ingin mencoba aplikasi web ini silakan kunjungi
 
-[Demo Web](http://demo.nerosky.rf.gd/absendigitalci3/)
+[Demo Web](https://smp2kb.github.io/absenonlineku/)
 
 ## Setting Environment
 
